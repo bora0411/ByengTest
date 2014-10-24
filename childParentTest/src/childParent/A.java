@@ -1,5 +1,5 @@
 package childParent;
 
-public abstract class A implements D{
+public abstract class A {
 
 }
