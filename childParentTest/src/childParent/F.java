@@ -1,5 +1,5 @@
 package childParent;
 
-public class E {
+public interface F {
 
 }
