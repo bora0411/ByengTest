@@ -1,5 +1,5 @@
 package childParent;
 
-public class B implements D,F{
+public class B extends A,C,E{
 
 }
